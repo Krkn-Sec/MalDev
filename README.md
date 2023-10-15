@@ -1,5 +1,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Krkn-Sec/MalDev)
 ![GitHub language count](https://img.shields.io/github/languages/count/Krkn-Sec/MalDev)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Krkn-Sec/MalDev)
+
 
 
 

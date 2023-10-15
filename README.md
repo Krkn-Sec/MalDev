@@ -28,7 +28,7 @@ and more...
 
 ## Learning Resources
 If you're wondering where I'm learning from:
-- MalDev Academy
-- Sektor7 Institute
-- 0xRick
-- 0xPat
+- [MalDev Academy](https://maldevacademy.com/)
+- [Sektor7 Institute](https://institute.sektor7.net/)
+- [0xRick](https://0xrick.github.io/)
+- [0xPat](https://0xpat.github.io/)

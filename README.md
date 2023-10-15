@@ -6,4 +6,29 @@
 
 
 # MalDev
-This repository contains code snippets and projects through my MalDev learning experience. My intention is to learn a number of techniques and for each one, try to recreate it in multiple programming languages. All techniques I'm learning will be in C/C++ first as that's the language I'm the most familiar with. Other language will come later as I learn how to recreate it in that language.
+This repository contains code snippets and projects through my MalDev learning experience. 
+
+My intention is to learn a number of techniques and for each one, try to recreate it in multiple programming languages. 
+
+All techniques I'm learning will be in C/C++ first as that's the language I'm the most familiar with. Other language will come later as I learn how to recreate it in that language.
+
+I plan on including the following content:
+- Local Injection
+- DLL Injection
+  - Shellcode Reflective DLL Injection (sRDI)
+- Remote Process Injection
+  - Mapping Injection
+  - APC Injection/EarlyBird APC Injection
+  - Function Stomping/Restorative Function Stomping
+- Anti-Debug
+- Anti-VM
+- Anti-Static
+
+and more...
+
+## Learning Resources
+If you're wondering where I'm learning from:
+- MalDev Academy
+- Sektor7 Institute
+- 0xRick
+- 0xPat

@@ -1,3 +1,8 @@
+//----------------------------------------------------------------
+// Author: KrknSec
+// Description: Example of basic remote shellcode injection in C
+//----------------------------------------------------------------
+
 #include <stdio.h>
 #include <Windows.h>
 #include <TlHelp32.h>

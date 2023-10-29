@@ -1,3 +1,8 @@
+//--------------------------------------------------------------
+// Author: KrknSec
+// Description: Example of local shellcode execution in Golang
+//--------------------------------------------------------------
+
 package main
 
 import (

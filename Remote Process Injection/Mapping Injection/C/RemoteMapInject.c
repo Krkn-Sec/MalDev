@@ -1,3 +1,8 @@
+//--------------------------------------------------
+// Author: KrknSec
+// Description: Example of Mapping Injection in C
+//--------------------------------------------------
+
 #include <stdio.h>
 #include <Windows.h>
 #include <memoryapi.h>

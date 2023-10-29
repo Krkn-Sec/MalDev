@@ -1,3 +1,8 @@
+#-----------------------------------------------------------
+# Author: KrknSec
+# Description: Example of local shellcode injection in Nim
+#-----------------------------------------------------------
+
 import winim/lean
 
 var data: array[276,byte] = [

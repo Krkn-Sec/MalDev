@@ -1,3 +1,8 @@
+//--------------------------------------------------------
+// Author: KrknSec
+// Description: Example of Earlybird APC Injection in C
+//--------------------------------------------------------
+
 #include <stdio.h>
 #include <Windows.h>
 

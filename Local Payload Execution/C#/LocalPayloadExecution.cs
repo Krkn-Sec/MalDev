@@ -1,3 +1,8 @@
+//-----------------------------------------------------------
+// Author: KrknSec
+// Description: Example of local shellcode execution in C#
+//-----------------------------------------------------------
+
 using System.Reflection.Metadata;
 using System.Runtime.InteropServices;
 using System.Windows;
